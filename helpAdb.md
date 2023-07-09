@@ -5,7 +5,6 @@
 <p align="center">
   <img src= https://github.com/andresima0/Help-AndroidStudio/assets/111400782/61c451fd-105e-4b25-9b02-8fb8e86e57a0)" alt="Detected ADB")>
 </p>
- 
 
 Esse aviso significa que o Android Studio não conseguiu encontrar automaticamente o arquivo binário do ADB (Android Debug Bridge) em seu sistema. O ADB é uma ferramenta essencial para se comunicar com emuladores e dispositivos Android durante o desenvolvimento.
 
@@ -31,4 +30,16 @@ Para verificar o caminho do ADB nas variáveis de ambiente do sistema no Windows
 
 Lembre-se de reiniciar o Android Studio após fazer essas alterações para garantir que as novas configurações sejam aplicadas corretamente.
 
-É importante lembrar que o caminho do ADB pode variar dependendo de onde o Android SDK foi instalado no seu computador. Certifique-se de verificar o local correto do diretório no seu sistema.
+É importante lembrar que o caminho do ADB pode variar dependendo de onde o Android SDK foi instalado no seu computador. Certifique-se de verificar o local correto do diretório no seu sistema:
+
+Para verificar a localização do Android SDK no Android Studio, você pode seguir estas etapas:
+
+1. No menu superior, clique em "File" (Arquivo) e selecione "Project Structure" (Estrutura do Projeto). Uma janela será aberta.
+  
+2. No painel esquerdo da janela "Project Structure", clique em "SDK Location".
+
+3. Na seção "Android SDK location" (Localização do Android SDK), você encontrará o caminho atual do SDK exibido no campo "Android SDK location". Por exemplo, o caminho pode ser algo como "C:\Users\SeuUsuario\AppData\Local\Android\Sdk" no Windows.
+
+<p align="center">
+  <img src= https://github.com/andresima0/Help-AndroidStudio/assets/111400782/fcbcd865-d244-45ec-af9e-9a283cd72399)" alt="Android SDK location" width="600">
+</p>
