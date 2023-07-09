@@ -1,6 +1,10 @@
 # Help in Android Studio Flamingo 2022.2.1 - ADB
 
 ### No momento de executar o aplicativo através do emulador, aparece a seguinte mensagem:
+
+<p align="center">
+  <img src= https://github.com/andresima0/Help-AndroidStudio/assets/111400782/61c451fd-105e-4b25-9b02-8fb8e86e57a0)" alt="Detected ADB")>
+</p>
  
 
 Esse aviso significa que o Android Studio não conseguiu encontrar automaticamente o arquivo binário do ADB (Android Debug Bridge) em seu sistema. O ADB é uma ferramenta essencial para se comunicar com emuladores e dispositivos Android durante o desenvolvimento.
