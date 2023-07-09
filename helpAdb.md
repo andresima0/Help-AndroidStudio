@@ -23,7 +23,7 @@ Para verificar o caminho do ADB nas variáveis de ambiente do sistema no Windows
 
 5. Na seção "Variáveis do Sistema", localize a variável chamada "Path" (ou "PATH") e clique em "Editar".
 
-6. Uma nova janela será aberta, mostrando os valores da variável "Path". Verifique se existe um caminho para o diretório que contém o arquivo `adb`. Por padrão, o caminho costuma ser semelhante a `C:\Users\SeuUsuario\AppData\Local\Android\Sdk, onde "SeuUsuario" é o nome do seu usuário no Windows.
+6. Uma nova janela será aberta, mostrando os valores da variável "Path". Verifique se existe um caminho para o diretório que contém o arquivo ADB. Por padrão, o caminho costuma ser semelhante a `C:\Users\SeuUsuario\AppData\Local\Android\Sdk`, onde "SeuUsuario" é o nome do seu usuário no Windows.
 
 7. Se o caminho para o diretório não estiver presente, você pode adicioná-lo clicando em "Novo" e inserindo o caminho completo para o diretório. Certifique-se de separar os caminhos existentes com ponto-e-vírgula (;).
 
